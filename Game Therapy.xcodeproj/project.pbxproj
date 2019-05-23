@@ -7,21 +7,47 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		592146B42295776500FE1EEB /* tile drop on glass.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 592146AE2295776500FE1EEB /* tile drop on glass.mp3 */; };
+		592146B52295776500FE1EEB /* tile drop on plastic.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 592146AF2295776500FE1EEB /* tile drop on plastic.mp3 */; };
+		592146B62295776500FE1EEB /* tile drop on steel.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 592146B02295776500FE1EEB /* tile drop on steel.mp3 */; };
+		592146B72295776500FE1EEB /* tile drop on wood.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 592146B12295776500FE1EEB /* tile drop on wood.mp3 */; };
+		592146B82295776500FE1EEB /* tile drop on marble.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 592146B22295776500FE1EEB /* tile drop on marble.mp3 */; };
+		592146B92295776500FE1EEB /* tile collision with another tile.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 592146B32295776500FE1EEB /* tile collision with another tile.mp3 */; };
+		5935C459228F44D100055E2A /* TutorialScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5935C458228F44D100055E2A /* TutorialScene.swift */; };
+		5935C482228F4D0200055E2A /* TutorialViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5935C481228F4D0200055E2A /* TutorialViewController.swift */; };
+		5941A4F52292DEA600B41D2D /* TutorialScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = 5941A4F42292DEA600B41D2D /* TutorialScene.sks */; };
+		5941A4F92293051C00B41D2D /* Game Therapy.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5941A4F82293051C00B41D2D /* Game Therapy.swift */; };
+		5952177D2295B1E0001A214B /* Actions.sks in Resources */ = {isa = PBXBuildFile; fileRef = 5952177C2295B1E0001A214B /* Actions.sks */; };
 		597F71DF228D6EFF00460FD4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 597F71DE228D6EFF00460FD4 /* AppDelegate.swift */; };
-		597F71E1228D6EFF00460FD4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 597F71E0228D6EFF00460FD4 /* ViewController.swift */; };
 		597F71E4228D6EFF00460FD4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 597F71E2228D6EFF00460FD4 /* Main.storyboard */; };
 		597F71E6228D6F0000460FD4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 597F71E5228D6F0000460FD4 /* Assets.xcassets */; };
 		597F71E9228D6F0000460FD4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 597F71E7228D6F0000460FD4 /* LaunchScreen.storyboard */; };
+		597F71FF228D966A00460FD4 /* background.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 597F71FE228D966900460FD4 /* background.mp3 */; };
+		59EBB6A5228EA13100C53F89 /* CollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59EBB6A4228EA13100C53F89 /* CollectionViewCell.swift */; };
+		59EBB6A7228EA1DB00C53F89 /* ViewLivelli.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59EBB6A6228EA1DB00C53F89 /* ViewLivelli.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		592146AE2295776500FE1EEB /* tile drop on glass.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "tile drop on glass.mp3"; sourceTree = "<group>"; };
+		592146AF2295776500FE1EEB /* tile drop on plastic.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "tile drop on plastic.mp3"; sourceTree = "<group>"; };
+		592146B02295776500FE1EEB /* tile drop on steel.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "tile drop on steel.mp3"; sourceTree = "<group>"; };
+		592146B12295776500FE1EEB /* tile drop on wood.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "tile drop on wood.mp3"; sourceTree = "<group>"; };
+		592146B22295776500FE1EEB /* tile drop on marble.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "tile drop on marble.mp3"; sourceTree = "<group>"; };
+		592146B32295776500FE1EEB /* tile collision with another tile.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "tile collision with another tile.mp3"; sourceTree = "<group>"; };
+		5935C458228F44D100055E2A /* TutorialScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TutorialScene.swift; sourceTree = "<group>"; };
+		5935C481228F4D0200055E2A /* TutorialViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TutorialViewController.swift; sourceTree = "<group>"; };
+		5941A4F42292DEA600B41D2D /* TutorialScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = TutorialScene.sks; sourceTree = "<group>"; };
+		5941A4F82293051C00B41D2D /* Game Therapy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Game Therapy.swift"; sourceTree = "<group>"; };
+		5952177C2295B1E0001A214B /* Actions.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Actions.sks; sourceTree = "<group>"; };
 		597F71DB228D6EFF00460FD4 /* Game Therapy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Game Therapy.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		597F71DE228D6EFF00460FD4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		597F71E0228D6EFF00460FD4 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		597F71E3228D6EFF00460FD4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		597F71E5228D6F0000460FD4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		597F71E8228D6F0000460FD4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		597F71EA228D6F0000460FD4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		597F71FE228D966900460FD4 /* background.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = background.mp3; sourceTree = "<group>"; };
+		59EBB6A4228EA13100C53F89 /* CollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewCell.swift; sourceTree = "<group>"; };
+		59EBB6A6228EA1DB00C53F89 /* ViewLivelli.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewLivelli.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,11 +61,43 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		592146A12295772500FE1EEB /* effetti sonori */ = {
+			isa = PBXGroup;
+			children = (
+				592146B32295776500FE1EEB /* tile collision with another tile.mp3 */,
+				592146AE2295776500FE1EEB /* tile drop on glass.mp3 */,
+				592146B22295776500FE1EEB /* tile drop on marble.mp3 */,
+				592146AF2295776500FE1EEB /* tile drop on plastic.mp3 */,
+				592146B02295776500FE1EEB /* tile drop on steel.mp3 */,
+				592146B12295776500FE1EEB /* tile drop on wood.mp3 */,
+			);
+			path = "effetti sonori";
+			sourceTree = "<group>";
+		};
+		5935C480228F4CEB00055E2A /* Tutorial */ = {
+			isa = PBXGroup;
+			children = (
+				5935C481228F4D0200055E2A /* TutorialViewController.swift */,
+				5941A4F42292DEA600B41D2D /* TutorialScene.sks */,
+				5952177C2295B1E0001A214B /* Actions.sks */,
+				5935C458228F44D100055E2A /* TutorialScene.swift */,
+			);
+			path = Tutorial;
+			sourceTree = "<group>";
+		};
+		596095A4228EF564002AA44E /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		597F71D2228D6EFF00460FD4 = {
 			isa = PBXGroup;
 			children = (
 				597F71DD228D6EFF00460FD4 /* Game Therapy */,
 				597F71DC228D6EFF00460FD4 /* Products */,
+				596095A4228EF564002AA44E /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -55,13 +113,34 @@
 			isa = PBXGroup;
 			children = (
 				597F71DE228D6EFF00460FD4 /* AppDelegate.swift */,
-				597F71E0228D6EFF00460FD4 /* ViewController.swift */,
+				5941A4F82293051C00B41D2D /* Game Therapy.swift */,
+				59EBB6A8228EA1EF00C53F89 /* Livelli */,
 				597F71E2228D6EFF00460FD4 /* Main.storyboard */,
 				597F71E5228D6F0000460FD4 /* Assets.xcassets */,
 				597F71E7228D6F0000460FD4 /* LaunchScreen.storyboard */,
 				597F71EA228D6F0000460FD4 /* Info.plist */,
+				597F71FD228D965200460FD4 /* sounds */,
 			);
 			path = "Game Therapy";
+			sourceTree = "<group>";
+		};
+		597F71FD228D965200460FD4 /* sounds */ = {
+			isa = PBXGroup;
+			children = (
+				592146A12295772500FE1EEB /* effetti sonori */,
+				597F71FE228D966900460FD4 /* background.mp3 */,
+			);
+			path = sounds;
+			sourceTree = "<group>";
+		};
+		59EBB6A8228EA1EF00C53F89 /* Livelli */ = {
+			isa = PBXGroup;
+			children = (
+				59EBB6A4228EA13100C53F89 /* CollectionViewCell.swift */,
+				59EBB6A6228EA1DB00C53F89 /* ViewLivelli.swift */,
+				5935C480228F4CEB00055E2A /* Tutorial */,
+			);
+			path = Livelli;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -96,6 +175,14 @@
 				TargetAttributes = {
 					597F71DA228D6EFF00460FD4 = {
 						CreatedOnToolsVersion = 10.1;
+						SystemCapabilities = {
+							com.apple.BackgroundModes = {
+								enabled = 1;
+							};
+							com.apple.InterAppAudio = {
+								enabled = 0;
+							};
+						};
 					};
 				};
 			};
@@ -122,8 +209,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				592146B52295776500FE1EEB /* tile drop on plastic.mp3 in Resources */,
+				592146B62295776500FE1EEB /* tile drop on steel.mp3 in Resources */,
 				597F71E9228D6F0000460FD4 /* LaunchScreen.storyboard in Resources */,
+				592146B72295776500FE1EEB /* tile drop on wood.mp3 in Resources */,
+				592146B82295776500FE1EEB /* tile drop on marble.mp3 in Resources */,
 				597F71E6228D6F0000460FD4 /* Assets.xcassets in Resources */,
+				5952177D2295B1E0001A214B /* Actions.sks in Resources */,
+				597F71FF228D966A00460FD4 /* background.mp3 in Resources */,
+				592146B92295776500FE1EEB /* tile collision with another tile.mp3 in Resources */,
+				5941A4F52292DEA600B41D2D /* TutorialScene.sks in Resources */,
+				592146B42295776500FE1EEB /* tile drop on glass.mp3 in Resources */,
 				597F71E4228D6EFF00460FD4 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -135,8 +231,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				597F71E1228D6EFF00460FD4 /* ViewController.swift in Sources */,
+				59EBB6A7228EA1DB00C53F89 /* ViewLivelli.swift in Sources */,
+				5935C459228F44D100055E2A /* TutorialScene.swift in Sources */,
 				597F71DF228D6EFF00460FD4 /* AppDelegate.swift in Sources */,
+				5935C482228F4D0200055E2A /* TutorialViewController.swift in Sources */,
+				5941A4F92293051C00B41D2D /* Game Therapy.swift in Sources */,
+				59EBB6A5228EA13100C53F89 /* CollectionViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -283,6 +383,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = C2523MAJ24;
 				INFOPLIST_FILE = "Game Therapy/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -300,6 +401,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = C2523MAJ24;
 				INFOPLIST_FILE = "Game Therapy/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
